@@ -30,6 +30,7 @@ button {
 
   &.selected {
     background: var(--background-button2);
+    border: 2px solid var(--yellow);
     color: var(--yellow);
   }
 }
